@@ -1,0 +1,8 @@
+# kafka-setup-demp
+
+- Clone this repository
+
+~ Move inside the cloned directory and execute the following command
+```
+docker compose up -d
+```
